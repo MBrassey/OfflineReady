@@ -28,10 +28,10 @@ I've updated an existing budget tracker application to allow for offline access 
     browse: localhost:3001/
     use insomnia to test routes
 
-<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://budgettracker-mbrassey.herokuapp.com/api/transaction">webapplication</a></p></h6>
+<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://budgettracker-mbrassey.herokuapp.com/">webapplication</a></p></h6>
 
 > Application Demonstration
-> [<img src="images/Application.gif">](https://budgettracker-mbrassey.herokuapp.com/api/transaction)
+> [<img src="images/Application.gif">](https://budgettracker-mbrassey.herokuapp.com/)
 
 > Routes
 > [<img src="images/Routes.gif">](https://budgettracker-mbrassey.herokuapp.com/api/transaction)

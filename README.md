@@ -1,6 +1,6 @@
 ## OfflineReady
 
-I've updated an existing budget tracker application to allow for offline access and functionality. The user is now able to add expenses and deposits to their budget with or without a network connection, transforming it to a Progressive Web Application (PWA). If the user enters transactions offline, the total is updated when they're brought back online. This was accomplished using IndexedDB to handle offline transactions and a configure Service Worker to cache webapp assets for offline use.
+I've updated an existing budget tracker application to allow for offline access and functionality. The user is now able to add expenses and deposits to their budget with or without a network connection, transforming it to a Progressive Web Application (PWA). If the user enters transactions offline, the total is updated when they're brought back online. This was accomplished using IndexedDB to handle offline transactions and a Service Worker configured to cache webapp assets for offline use.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
